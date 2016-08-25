@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "apifeedbottemplate"
+  },
+  "hostingPlanName": {
+    "value": "ServicePlan2be0d374-a16f"
+  },
+  "siteLocation": {
+    "value": "South Central US"
+  },
+  "sku": {
+    "value": "Standard"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "c0faecae-757f-4eb2-9b59-6816970fab0c"
+  },
+  "resourceGroup": {
+    "value": "POCACADEMICGROUP"
+  }
+}
