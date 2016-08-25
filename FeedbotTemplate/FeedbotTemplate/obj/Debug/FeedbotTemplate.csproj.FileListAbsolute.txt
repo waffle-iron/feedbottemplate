@@ -88,3 +88,7 @@ D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\bin\System.Web
 D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\obj\Debug\FeedbotTemplate.csprojResolveAssemblyReference.cache
 D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\obj\Debug\FeedbotTemplate.dll
 D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\obj\Debug\FeedbotTemplate.pdb
+D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\bin\Lime.Protocol.dll
+D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\bin\System.Threading.Tasks.Dataflow.dll
+D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\bin\Lime.Protocol.xml
+D:\ProjetosGitHub\feedbottemplate\FeedbotTemplate\FeedbotTemplate\bin\System.Threading.Tasks.Dataflow.xml
